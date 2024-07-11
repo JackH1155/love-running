@@ -169,6 +169,16 @@ section #circle-cover-bg {
     color: #fafafa;
 }
 
+/* ----- Gallery Page -----*/
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
 /* ---------------FOOTER-------------- */
 #social-networks {
     text-align: center;
